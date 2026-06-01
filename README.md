@@ -25,3 +25,10 @@ Entorno: Google Colab.
 Desarrollado por Diego-rd05.
 
 Enfoque: Análisis de Datos | Big Data | Machine Learning.
+
+---
+### 🔍 ¿Quieres ver el análisis completo?
+Puedes abrir este proyecto directamente en Google Colab para interactuar con el código y las gráficas:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Diego-rd05/SmartRetail_EDA_Auditoria_Do-aEva/blob/main/SmartRetail_EDA_Auditoria_Do%C3%B1aEva.ipynb)
+---
