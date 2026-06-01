@@ -1,4 +1,4 @@
-# SmartRetail_EDA_Auditoria_Do-aEva
+# SmartRetail_EDA_Auditoria_DoñaEva
 Análisis exploratorio de datos de ventas - Proyecto de portafolio
 Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) enfocado en la auditoría de ventas de un entorno minorista. El objetivo es identificar patrones de consumo, métricas clave de desempeño y áreas de oportunidad para la optimización de procesos comerciales.
 
